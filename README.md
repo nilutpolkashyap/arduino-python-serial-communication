@@ -1,5 +1,5 @@
 # arduino-python-serial-communication
-I am using the pyserial library in python to communicate with the arduino board through serial communication. 
+Using the pyserial library in python to communicate with the arduino board through serial communication. 
 
 
 # ARDUINO - serial_led_blink.ino
@@ -10,7 +10,7 @@ The serial_led_blink.ino code has to be uploaded into the arduino board which wo
  The baud rate has to be set at 9600.
 
 # PYTHON - serial_data_send.py
-We are using the pyserial library of python to send data to arduino over serial communication. 
+Using the pyserial library of python to send data to arduino over serial communication. 
   The variable COM_PORT has to replaced with the COM PORT no through which the arduino board is connected to the PC.
   It can found at the Arduino IDE. 
   
